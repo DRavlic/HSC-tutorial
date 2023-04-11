@@ -1,0 +1,19 @@
+{
+  "name": "smartcontractservice",
+  "version": "1.0.0",
+  "description": "Public repository which shows how can one import Solidity smart contracts onto Hedera network.",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Hedera-examples/SmartContractService.git"
+  },
+  "author": "Domagoj Ravlic",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.19.0",
+    "dotenv": "^16.0.3"
+  }
+}
