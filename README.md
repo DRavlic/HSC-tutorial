@@ -21,8 +21,8 @@ Run `npm install` to setup your development environment.
 - Log in (or register) on [Hedera Portal](https://portal.hedera.com/login) and copy your Account ID, public and private key into .env file
 - Compile Solidity smart contract with following command:
   `solcjs --bin YourSoliditySmartContract.sol`
-- Run (and edit if necessary) deploy.js to deploy your smart contract on Hedera testnet
-- Run contract_interaction.js script for examples on how to interact with deployed smart contract.
+- Run (and edit if necessary) `deploy.js` to deploy your smart contract on Hedera testnet
+- Run `contract_interaction.js` script for examples on how to interact with deployed smart contract.
 
 # About Hedera
 
