@@ -14,12 +14,7 @@ For more information about this subject, look at:
 
 ## Environment setup
 
-Run following commands to setup you development environment
-
-1. `npm init`
-2. `npm i @hashgraph/sdk`
-3. `npm i dotenv`
-4. `npm i -g solc`
+Run `npm install` to setup your development environment.
 
 ## Get started
 
